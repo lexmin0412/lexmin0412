@@ -9,8 +9,8 @@
 
 ### 项目模板
 
-- [一套可用于生产环境的Taro项目模板，现已全面支持1.x/2.x/3.x](https://github.com/lexmin0412/taro-template)
-- [一个 Vite + React + TypeScript 单页应用项目模板](https://github.com/lexmin0412/vite-react-app)
+- [可用于生产环境的Taro项目模板，现已全面支持1.x/2.x/3.x](https://github.com/lexmin0412/taro-template)
+- [Vite + React + TypeScript 单页应用项目模板](https://github.com/lexmin0412/vite-react-app)
 
 ### 组件库/工具库
 
