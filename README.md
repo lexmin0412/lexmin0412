@@ -14,7 +14,7 @@
 
 ### 组件库/工具库
 
-- [Taro3.x UI组件库](https://lexmin0412.github.io/taro-xui/)
+- [Taro3.x UI组件库](https://github.com/lexmin0412/taro-xui)
 
 ### 其他
 
