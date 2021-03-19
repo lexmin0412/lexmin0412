@@ -1,6 +1,8 @@
 ### 关于我
 
-![lexmin0412's github stats](https://github-readme-stats.vercel.app/api?username=lexmin0412&show_icons=true&theme=radical)
+![lexmin0412's github stats](https://github-readme-stats.vercel.app/api?username=lexmin0412&show_icons=true&title_color=#cccccc&bg_color=#ff4a4a,#45aafa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexmin0412&layout=compact)](https://github.com/lexmin0412/github-readme-stats)
 
 ### 博客
 
