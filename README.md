@@ -1,6 +1,6 @@
 ### 关于我
 
-![lexmin0412's github stats](https://github-readme-stats.vercel.app/api?username=lexmin0412)
+![lexmin0412's github stats](https://github-readme-stats.vercel.app/api?username=lexmin0412&show_icons=true&theme=radical)
 
 ### 博客
 
