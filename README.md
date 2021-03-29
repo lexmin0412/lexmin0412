@@ -1,4 +1,4 @@
-### 前端无业游民 - Lexmin
+### 前端无业游民
 
 ![lexmin0412's github stats](https://github-readme-stats.vercel.app/api?username=lexmin0412&theme=radical)
 
