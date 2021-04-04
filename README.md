@@ -17,5 +17,5 @@
 ### React
 
 - [Vite + React + TypeScript 模版](https://github.com/lexmin0412/vite-react-app)
-- [React 信息流应用](https://github.com/lexmin0412/vite-react-zhihu)
-- React Hooks 组件库
+- [基于以上模版的 React Hooks 信息流应用](https://github.com/lexmin0412/vite-react-zhihu)
+- [基于以上模版的 React Hooks 组件库](https://github.com/lexmin0412/react-component)
