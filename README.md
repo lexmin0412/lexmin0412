@@ -1,6 +1,4 @@
-# 前端无业游民
-
-## 关于我
+# About me
 
 ![lexmin0412's github view count](https://komarev.com/ghpvc/?username=lexmin0412)
 
