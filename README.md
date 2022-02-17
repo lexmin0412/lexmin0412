@@ -4,10 +4,10 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=lexmin0412&show_icons=true&theme=radical&count_private=true" alt="lexmin0412's github stats" 
-    style="height: 200px"     
+    style="height: 180px"     
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexmin0412&layout=compact&theme=radical&langs_count=10&hide=Less" alt="Top Langs" 
-    style="height: 200px"     
+    style="height: 180px"     
   />
 </div>
 
