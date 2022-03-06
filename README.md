@@ -1,4 +1,11 @@
-# I'm Lexmin, I'm gonna show you something.
+# Hello, I'm Lexmin.
+
+a self-taught passionate Frontend developer from China.
+
+### About me 
+
+- 💼 Frontend Engineer at Mingyuanyun in ShenZhen, China 🇨🇳
+- ❤️ Writing TypeScript, Learning Rust, Building Taro ecosystem
 
 ![lexmin0412's github view count](https://komarev.com/ghpvc/?username=lexmin0412) ![stars](https://img.shields.io/github/stars/lexmin0412?style=social) ![followers](https://img.shields.io/github/followers/lexmin0412?color=%23ff4a4a&logoColor=%23fff&style=plastic)
 
