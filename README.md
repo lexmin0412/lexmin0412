@@ -10,12 +10,8 @@ a self-taught passionate Frontend developer from China.
 ![lexmin0412's github view count](https://komarev.com/ghpvc/?username=lexmin0412) ![stars](https://img.shields.io/github/stars/lexmin0412?style=social) ![followers](https://img.shields.io/github/followers/lexmin0412?color=%23ff4a4a&logoColor=%23fff&style=plastic)
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexmin0412&show_icons=true&theme=radical&count_private=true" alt="lexmin0412's github stats" 
-    style="height: 200px"     
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexmin0412&layout=compact&theme=radical&langs_count=10&hide=Less" alt="Top Langs" 
-    style="height: 200px"     
-  />
+  <img src="https://raw.githubusercontent.com/lexmin0412/github-stats-transparent/output/generated/overview.svg" alt="lexmin0412's github stats"/>
+  <img src="https://raw.githubusercontent.com/lexmin0412/github-stats-transparent/output/generated/languages.svg" alt="Top Langs"/>
 </div>
 
 ### languages and tools
