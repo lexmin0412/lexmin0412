@@ -1,11 +1,11 @@
 # Hello, I'm Lexmin.
 
-a self-taught passionate Frontend developer from China.
+a self-taught and passionate frontend developer from China.
 
 ### About me 
 
-- 💼 Frontend Engineer at Mingyuanyun in ShenZhen, China 🇨🇳
-- ❤️ Writing TypeScript. Learning Go. Building tools for my rest life.
+- 💼 Frontend Engineer at Mingyuanyun in Shenzhen, China 🇨🇳
+- ❤️ Writing TypeScript, learning Go and building tools for the rest of my life.
 
 ![lexmin0412's github view count](https://komarev.com/ghpvc/?username=lexmin0412) ![stars](https://img.shields.io/github/stars/lexmin0412?style=social) ![followers](https://img.shields.io/github/followers/lexmin0412?color=%23ff4a4a&logoColor=%23fff&style=plastic)
 
@@ -26,8 +26,9 @@ a self-taught passionate Frontend developer from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 <div style="display: flex">
   
