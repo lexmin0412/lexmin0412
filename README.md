@@ -7,7 +7,7 @@ a self-taught and passionate Frontend developer from China.
 - ❤️ Writing TypeScript and Python
 - 🏫 Learning Golang
 - 💻 Focusing on Dify recently
-- 🔨 Building tools for the rest of my life.
+- 🔨 Building tools for the rest of my life
 
 ![lexmin0412's github view count](https://komarev.com/ghpvc/?username=lexmin0412) ![stars](https://img.shields.io/github/stars/lexmin0412?style=social) ![followers](https://img.shields.io/github/followers/lexmin0412?color=%23ff4a4a&logoColor=%23fff&style=plastic)
 
