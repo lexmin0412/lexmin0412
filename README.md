@@ -1,6 +1,6 @@
 # Hello, I'm Lexmin.
 
-a self-taught and passionate Frontend developer from China.
+A self-taught and passionate Fullstack/AI Developer from China.
 
 ### About me
 
